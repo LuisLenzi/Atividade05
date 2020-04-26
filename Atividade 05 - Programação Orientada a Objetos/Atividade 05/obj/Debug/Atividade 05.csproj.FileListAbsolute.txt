@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\Particular\Meus arquivos\Outros\Programação\3º Período\Programação Orientada a Objetos\Atividade 05 - Programação Orientada a Objetos\Atividade 05\obj\Debug\Atividade 05.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Particular\Meus arquivos\Outros\Programação\3º Período\Programação Orientada a Objetos\Atividade 05 - Programação Orientada a Objetos\Atividade 05\obj\Debug\Atividade 05.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Particular\Meus arquivos\Outros\Programação\3º Período\Programação Orientada a Objetos\Atividade 05 - Programação Orientada a Objetos\Atividade 05\bin\Debug\Atividade 05.exe.config
+C:\Users\Cliente\Desktop\Particular\Meus arquivos\Outros\Programação\3º Período\Programação Orientada a Objetos\Atividade 05 - Programação Orientada a Objetos\Atividade 05\bin\Debug\Atividade 05.exe
+C:\Users\Cliente\Desktop\Particular\Meus arquivos\Outros\Programação\3º Período\Programação Orientada a Objetos\Atividade 05 - Programação Orientada a Objetos\Atividade 05\bin\Debug\Atividade 05.pdb
+C:\Users\Cliente\Desktop\Particular\Meus arquivos\Outros\Programação\3º Período\Programação Orientada a Objetos\Atividade 05 - Programação Orientada a Objetos\Atividade 05\obj\Debug\Atividade 05.exe
+C:\Users\Cliente\Desktop\Particular\Meus arquivos\Outros\Programação\3º Período\Programação Orientada a Objetos\Atividade 05 - Programação Orientada a Objetos\Atividade 05\obj\Debug\Atividade 05.pdb
